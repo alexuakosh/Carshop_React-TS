@@ -1,0 +1,48 @@
+@import "../../Mixin";
+$modalWidth: 500px;
+
+.modal {
+    @include position;
+    position: fixed;
+    top: 100px;
+    left: calc((100% - #{$modalWidth})/2);
+    width: $modalWidth;
+    height: 250px;
+    border-radius: 5px;
+    z-index: 2;
+    color: white;
+  }
+  
+  .modal-header {
+    display: flex;
+    padding-top: 20px;
+  }
+  
+  .modal-header::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 65px;
+    background-color: black;
+    opacity: 0.2;
+  }
+  
+  .title {
+    display: inline-block;
+    margin: 0 auto;
+    word-wrap: break-word;
+  }
+  
+  .text {
+    width: 400px;
+    word-wrap: break-word;
+    text-align: center;
+    margin: 50px auto 20px auto;
+  }
+  
+  .modal-btns {
+    @include position;
+    width: 220px;
+    display: flex;
+  }

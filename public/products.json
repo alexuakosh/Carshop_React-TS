@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "name": "Toyota",
+        "price": "20000",
+        "img": "./toyota.png",
+        "favorites": "../toyota.png",
+        "code": "3457697",
+        "color": "grey"
+    },
+    {
+        "id": "2",
+        "name": "Lexus",
+        "price": "40000",
+        "img": "./lexus.jpg",
+        "favorites": "../lexus.jpg",
+        "code": "8686876",
+        "color": "yellow"
+    },
+    {
+        "id": "3",
+        "name": "Honda",
+        "price": "30000",
+        "img": "./honda.jpg",
+        "favorites": "../honda.jpg",
+        "code": "53534425",
+        "color": "white"
+    },
+    {
+        "id": "4",
+        "name": "Mazda",
+        "price": "35000",
+        "img": "./mazda.jpg",
+        "favorites": "../mazda.jpg",
+        "code": "54646456",
+        "color": "red"
+    },
+    {
+        "id": "5",
+        "name": "BMW",
+        "price": "50000",
+        "img": "./bmw.jpg",
+        "favorites": "../bmw.jpg",
+        "code": "4353535",
+        "color": "black"
+    },
+    {
+        "id": "6",
+        "name": "Mercedes",
+        "price": "55000",
+        "img": "./mercedes.jpg",
+        "favorites": "../mercedes.jpg",
+        "code": "4545245",
+        "color": "grey"
+    },
+    {
+        "id": "7",
+        "name": "Peugeot",
+        "price": "25000",
+        "img": "./peugeot.jpg",
+        "favorites": "../peugeot.jpg",
+        "code": "2342424",
+        "color": "green"
+    },
+    {
+        "id": "8",
+        "name": "Renault",
+        "price": "35000",
+        "img": "./renault.jpg",
+        "favorites": "../renault.jpg",
+        "code": "4535353",
+        "color": "green"
+    },
+    {
+        "id": "9",
+        "name": "Chevrolet",
+        "price": "60000",
+        "img": "./chevrolet.jpg",
+        "favorites": "../chevrolet.jpg",
+        "code": "932424",
+        "color": "blue"
+    },
+    {
+        "id": "10",
+        "name": "Nissan",
+        "price": "32000",
+        "img": "./nissan.jpg",
+        "favorites": "../nissan.jpg",
+        "code": "8976546",
+        "color": "beige"
+    }
+]
